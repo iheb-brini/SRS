@@ -7,9 +7,11 @@ Keywords :
 - Multithreading 
 - Socket programming 
 
-<br>
 
-![Alt Workflow](docs/loop.png)
+
+<p align="center">
+  <img width="720" height="400" src="docs/loop.png">
+</p>
 
 # How to run ?
 
@@ -21,4 +23,7 @@ Keywords :
 *Please note that you may need the OS execution permission you added by running `chmod +x server client`* 
 
 # Quick Demo  
-![](docs/simulation.gif)
+
+<p align="center">
+  <img width="720" height="400" src="docs/simulation.gif">
+</p>
